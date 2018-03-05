@@ -1,1 +1,2 @@
 
+This folder contains UML diagrams as well as pdf containing all UML diagrams
